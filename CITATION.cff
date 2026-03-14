@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "HighDim-Inference-Toolkit"
+type: software
+license: MIT
+authors:
+  - family-names: "LIU"
+    given-names: "Yuxiang"
+repository-code: "https://github.com/leoplasture/HighDim-Inference-Toolkit"
+keywords:
+  - high-dimensional statistics
+  - lasso
+  - debiased lasso
+  - confidence intervals
+  - transfer learning
+preferred-citation:
+  type: article
+  title: "Confidence intervals for low-dimensional parameters in high-dimensional linear models"
+  authors:
+    - family-names: "Zhang"
+      given-names: "Cun-Hui"
+    - family-names: "Zhang"
+      given-names: "Stephanie S"
+  year: 2014
